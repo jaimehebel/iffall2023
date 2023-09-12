@@ -1,0 +1,92 @@
+.Venkman{
+    text-align: center; font-family:'Courier New', Courier, monospace;
+    font-size: large; font-weight: bold; color: darkgreen; text-transform: uppercase;
+}
+
+.dialogue{ 
+    text-align: center; font-family:'Courier New', Courier, monospace;
+    font-size: medium; padding-bottom: 15px; padding-left: 20px; padding-right: 20px;
+}
+
+.dana{
+    text-align: center; font-family:'Courier New', Courier, monospace;
+    font-size: large; font-weight: bold; color: cadetblue; text-transform: uppercase;
+}
+
+.action{
+    text-align: center; font-family:'Courier New', Courier, monospace;
+    font-size: smaller; font-style: italic ; text-transform: uppercase;
+}
+
+.mayor{
+    text-align: center; font-family: 'Courier New', Courier, monospace; font-size: large;
+    font-weight: bold; color: goldenrod; text-transform: uppercase;
+
+}
+#bg{
+    background-color: #f2f2f2;
+    border-radius: 130px;
+    opacity: 0.85;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+    
+}
+
+#egon{
+    text-align: center; font-family:'Courier New', Courier, monospace;
+    font-size: large; font-weight: bold; color: rgb(142, 119, 38); text-transform: uppercase;
+}
+
+.char{
+    text-align: center; font-family:'Courier New', Courier, monospace;
+    font-size: large; font-weight: bold; text-transform: uppercase;
+
+}
+.dif{
+    color: darksalmon;
+}
+.ray{
+    color: maroon;
+}
+
+#two{
+    background-color: #e8e8e8;
+    border-radius: 130px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.scene{
+    text-align: center; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
+    font-size: xx-large; font-weight: bold; text-transform: uppercase; padding-top: 15px;
+
+}
+
+#three{ 
+    background-color: #dadedf;
+    border-radius: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#action{
+    text-align: center; font-family:'Courier New', Courier, monospace;
+    font-size: medium; padding-bottom: 15px; font-weight: bold;
+}
+
+#title{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 50px; text-align: center;
+    color: azure; padding-top: 15px; padding-bottom: -15px;text-transform: uppercase;
+
+}
+
+body{
+    background-color: rgb(64, 87, 66);
+}
+
+#direct{ 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 25px; text-align: center;
+    color: azure; text-transform: uppercase;
+}
