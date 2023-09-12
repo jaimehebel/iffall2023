@@ -1,0 +1,73 @@
+#title{
+font-family: 'Trebuchet MS';
+font-weight: bolder;
+font-size: 100px; text-align: center;
+margin-top: 15px; margin-bottom: 5px;
+text-transform: uppercase;
+
+
+}
+
+#artist{
+
+font-family:'Trebuchet MS';
+font-weight: lighter;
+font-size: 20px; text-align: center;
+margin-top: 14px; margin-bottom: 12px;
+}
+
+p{
+    font-size: large; font-weight: light;
+    font-family:'Trebuchet MS';
+    text-align: center;
+    line-height: 80%;
+}
+
+#fine{
+    font-size: smaller; font-weight: lighter; font-style: oblique;
+    padding-left: 10%;
+}
+
+.verse{
+font-weight: bolder; padding-top: 3%;
+font-size: larger;
+
+}
+
+img{
+    border-radius: 3%; width: 15%;  
+    display: block; margin-left: auto; margin-right: auto;
+
+}
+
+.ital{
+    font-style: italic;
+}
+
+body{ 
+    color: rgb(229, 200, 227);
+    background-color:  rgb(162 106 146);
+    font-size: large;
+}
+
+#background{ 
+    background-image: linear-gradient(to bottom right,rgb(162 106 146), rgb(79, 31, 65) );
+    
+}
+
+#last{ 
+    padding-bottom: 5%;
+}
+
+.footer{
+    font-size: small; text-align: center;
+    font-family: 'Trebuchet MS'
+
+}
+
+#padding{
+    margin-left: 350px; margin-right: 350px;
+    scale: 90%;
+    align-items: center;
+
+}
