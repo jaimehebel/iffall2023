@@ -1,0 +1,16 @@
+img {
+    width: 900px;
+    height:auto;
+    display: block;
+    margin:auto;
+
+}
+
+.mobile{
+    width:500px;
+}
+
+body{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
